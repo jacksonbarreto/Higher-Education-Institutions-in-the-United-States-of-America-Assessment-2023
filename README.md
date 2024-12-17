@@ -2,17 +2,17 @@
 
 This repository presents the results obtained from the security assessment of the websites of higher education institutions in the United States of America (USA) in the year 2023 [1]. This data has been published in order to promote open science principles [2].
 
-## Metodologia
+## Methodology
 
 The database for this research was extracted from the following repository [3]. To analyse this data, a security scanner was used to analyse a set of parameters, namely dnssec, https, axfr and security headers [4], sharing the results with each institution as to whether or not each parameter was correct. The results obtained can be found at the root of this repository.
 
-## Uso
+## Usage
 
 This repository is made available under the Creative Commons Zero (CC0) licence and can be used for any purpose such as academic research. We encourage the sharing of knowledge and the advancement of research by adhering to open science principles [2]
 
 If this data is used, it must be cited by including a link to this repository. In the case of attribution, the following DOI should be used:
 
-## Contribuições
+## Contribuitions
 
 If you have any updates or corrections to our data, feel free to open a pull request or contact us directly.
 
