@@ -1,4 +1,4 @@
-# Web Security Assessment of Higher Education Institutions in the United States (2024)
+# Web Security Assessment of Higher Education Institutions in the United States (2023)
 
 This repository contains a dataset resulting from a cybersecurity investigation conducted on the websites of Higher Education Institutions (HEI) in the United States [1]. The purpose of this research is to assess the state of web security across educational institutions. The data is being shared to contribute to open science and public knowledge [2]. The data collection took place on March 1, 2023.
 
