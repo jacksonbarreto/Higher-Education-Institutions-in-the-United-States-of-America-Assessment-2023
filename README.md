@@ -3,7 +3,7 @@
 This repository contains a dataset resulting from a cybersecurity investigation conducted on the websites of Higher Education Institutions (HEI) in the United States [1]. The purpose of this research is to assess the state of web security across educational institutions. The data is being shared to contribute to open science and public knowledge [2]. The data collection took place on March 1, 2023.
 
 The repository includes:
-- Raw Data – The unprocessed results obtained from scanning HEI websites (The files are available in the raw directory in this repository).
+- Raw Data – The unprocessed results obtained from scanning HEI websites (The files are available in the raw folder in this repository).
 - Aggregated Data – Analyzed results, providing insights into security implementations based on the type of institution (public or private), and regional analysis by state. These files are available in the root directory of this repository.
 
 ## Methodology
