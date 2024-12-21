@@ -1,0 +1,15 @@
+Top 3 most common headers (in %):
+cache-control,58.79%
+x-frame-options,35.88%
+x-content-type-options,34.10%
+
+Top 3 least common headers (in %):
+content-security-policy,10.30%
+referrer-policy,6.93%
+x-permitted-cross-domain-policies,0.71%
+
+Headers not used (in %):
+clear-site-data,0.00%
+cross-origin-embedder-policy,0.00%
+cross-origin-opener-policy,0.00%
+cross-origin-resource-policy,0.00%
