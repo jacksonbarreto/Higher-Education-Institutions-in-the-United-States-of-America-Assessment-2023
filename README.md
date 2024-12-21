@@ -1,10 +1,14 @@
 # Higher-Education-Institutions-in-the-United-States-of-America-Assessment-2023
 
-This repository presents the results obtained from the security assessment of the websites of higher education institutions in the United States of America (USA) in the year 2023 [1]. This data has been published in order to promote open science principles [2].
+This repository presents the results obtained from the security assessment of the websites of higher education institutions in the United States of America (USA) in the year 2023 [1]. This data has been published in order to promote open science principles [2]. The data was collected on **(Pendent of confirmation)**.
 
 ## Methodology
 
-The database for this research was extracted from the following repository [3]. To analyse this data, a security scanner was used to analyse a set of parameters, namely dnssec, https, axfr and security headers [4], sharing the results with each institution as to whether or not each parameter was correct. The results obtained can be found at the root of this repository.
+The database for this research was extracted from the following repository [3]. To analyze this data, a security scanner was used to analyze a set of parameters, namely dnssec, https, axfr and security headers, sharing the results with each institution regarding whether or not each parameter was correct. 
+
+The data obtained was sent to a list of each school informing them of the existence or correct implementation of each checker. This data was then passed to an analyzer [4], which aggregated it to give us a dimension of the implementation of these security requirements in educational institutions in the United States by each state.
+
+The result of this parser generated the files that are at the root of this project.
 
 ## Usage
 
